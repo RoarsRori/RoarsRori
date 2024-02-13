@@ -1,48 +1,11 @@
-## GitHub Profile Checklist
-
-### Personal Information
-- [ ] **Professional Headline**: Clearly state your professional title and area of expertise.
-- [ ] **Bio**: Include a brief introduction highlighting your background, key skills, and unique qualities or experiences.
-- [ ] **Contact Information**: Provide ways to contact you, such as an email address, and optionally a phone number.
-- [ ] **Personal Website or Portfolio**: Link to a personal website or portfolio if available.
-
-### Technical Skills
-- [ ] **Technologies Section**: List the technologies and programming languages you are proficient in.
-
-### Work Experience
-- [ ] **Relevant Positions**: Detail your relevant work experience, including job titles, company names, and dates of employment.
-- [ ] **Responsibilities and Achievements**: Describe key responsibilities, projects, and any achievements or improvements contributed to.
-
-### Education
-- [ ] **Academic Background**: List educational qualifications, including degrees, institutions, and graduation dates.
-- [ ] **Relevant Coursework**: Mention relevant coursework or certifications, especially if they relate to your area of expertise.
-
-### Projects
-- [ ] **Personal Projects Section**: Showcase a selection of personal or academic projects with:
-  - Brief descriptions.
-  - Tech stacks used.
-  - Links to live projects and GitHub repositories.
-
-### Contribution Graph
-- [ ] **Activity Overview**: Maintain an active contribution graph to showcase ongoing engagement with coding and project development.
-
-### Pinned Repositories
-- [ ] **Pinned Repos**: Pin important or impressive repositories to highlight them to visitors, showcasing a range of skills and interests.
-
-### Additional Sections
-- [ ] **Languages**: List languages you are fluent in, especially if relevant to your career interests.
-- [ ] **Volunteer Experience**: Optional, but can showcase soft skills and commitment to community.
-- [ ] **Certifications**: Include any relevant certifications to add credibility to your skills.
-
-
-# [Your Name]
-### [Your Job Title]
+# Rorisang Masilo
+### Software Engineer
 
 I am [a brief introduction about your professional background, skills, and interests]. I have completed [your education or certification], where I gained hands-on experience in various programming languages and technologies.
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **081 764 7861**
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) [Your Email](mailto:your.email@example.com)
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) rbmasilo@gmail.com (mailto:rbmasilo@gmail.com)
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [Your Portfolio Site](http://www.example.com)
 
@@ -63,7 +26,7 @@ I am [a brief introduction about your professional background, skills, and inter
 - Detail your responsibilities, projects, and achievements.
 
 ### Programme Administrator
-**Gordon Institute of Business Science, Illovo** <br>
+**Gordon Institute of Business Science (GIBS), Illovo** <br>
 *01 August 2022 - 30 September 2022*
 
 - More details about your work experience.
@@ -82,15 +45,15 @@ I am [a brief introduction about your professional background, skills, and inter
 
 # Education
 
-### Your Degree
-**Institution Name, Location** <br>
+### Postgraduate Diploma in Business Administration
+**University of Pretoria (GIBS), Illovo** <br>
 *Graduation Date*
 
 - Courses taken and skills acquired.
 
-### Another Degree
-**Institution Name, Location** <br>
-*Graduation Date*
+### BCom Human Resources
+**North-West University, Potchefstroom** <br>
+04 April 2020
 
 - Further educational background.
 
@@ -111,6 +74,6 @@ I am [a brief introduction about your professional background, skills, and inter
 
 ## Connect with me🤝:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rorisang-masilo/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
 ... [Add other social links as needed]
