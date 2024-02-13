@@ -23,37 +23,50 @@ I am [a brief introduction about your professional background, skills, and inter
 **Lesedi PFS, Pretoria** <br>
 *15 March 2023 - 20 July 2023*
 
-- Detail your responsibilities, projects, and achievements.
+-  Documenting the recruitment processes and systems for internal and external use as well as futureproofing.
+- Conducting and engaging with interview candidates and the BMW panel in interview meetings.
+- Engaging with BMW hiring managers regarding candidate interview assessments and outcomes.
+- Transfer candidate resumes to the provided BMW resume template.
+- Creation of candidate directories and uploading their documents on the BMW B2B Panama portal.
+- Creating quotes for BMW (the client) in order to process candidate placement.
 
 ### Programme Administrator
 **Gordon Institute of Business Science (GIBS), Illovo** <br>
 *01 August 2022 - 30 September 2022*
 
-- More details about your work experience.
+- Operated as administrative support to programme management team consisting of 12 members using various platforms.
+- Coordinated routine checks of six corporate education programmes on the campus premises.
+- Virtually hosted and controlled three live online programmes via Microsoft Teams and Zoom in the daytime and evening..
 
 ### Financial Planner
 **Momentum Financial Planning, Sandton** <br>
 *01 September 2021 - 30 August 2022*
 
-- Detail your responsibilities, projects, and achievements.
+- Offered expert personal financial planning solutions to over ten clients within three months of commencement.
+- Sourced leads and provided personalised customer experience to clients and customer service to returning clients.
+- Administered systematic cross-functional financial needs analyses on clients and present feedback in presentation form.
 
 ### Human Resources Intern
 **Nestlé South Africa, Remote/Sandton** <br>
 *15 October 2020 - 31 December 2020*
 
-- Detail your responsibilities, projects, and achievements.
+- Participate in the selection process & assessment of under ten human resources specialist firms.
+- Conduct follow-ups with Human Resources Business Partners within manufacturing plants and distribution centres.
+- Brainstorm solutions & collective bargaining for union negotiations in a team of five members.
 
 # Education
 
+### Software Engineering
+**CodeSpace Academy, Rustenburg** <br>
+*Awaiting graduation in 2025*
+
 ### Postgraduate Diploma in Business Administration
 **University of Pretoria (GIBS), Illovo** <br>
-*Graduation Date*
-
-- Courses taken and skills acquired.
+*Awaiting graduation in 2024*
 
 ### BCom Human Resources
 **North-West University, Potchefstroom** <br>
-04 April 2020
+*04 April 2020*
 
 - Further educational background.
 
@@ -75,5 +88,5 @@ I am [a brief introduction about your professional background, skills, and inter
 ## Connect with me🤝:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rorisang-masilo/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roarsrori)
 ... [Add other social links as needed]
