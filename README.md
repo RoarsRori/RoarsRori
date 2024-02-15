@@ -1,11 +1,11 @@
 # Rorisang Masilo
 ### Software Engineer
 
-I am [a brief introduction about your professional background, skills, and interests]. I have completed [your education or certification], where I gained hands-on experience in various programming languages and technologies.
+I am passionate about leveraging technology to drive positive change, with a track record of developing innovative solutions that solve complex problems. Known for exceptional communication and collaboration skills, I believe excel in cross-functional team environments and thrive on challenges that require creative problem-solving. Currently, I am completing a Software Engineering course at CodeSpace Academy, where I am gaining hands-on experience in various programming languages and technologies. Being a versatile professional with a strong background in Human Resources and personal financial management. With a Bachelor of Commerce in Human Resources and numerous certifications in Business Administration and Financial Planning (In-house) . I demonstrate my expertise in creative software development projects from conception to delivery.
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **081 764 7861**
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) rbmasilo@gmail.com (mailto:rbmasilo@gmail.com)
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) rbmasilo@gmail.com
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [Your Portfolio Site](http://www.example.com)
 
